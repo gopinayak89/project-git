@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1657176361,,"wq!"
+|2,0,1657177225,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,24 +25,42 @@
 # Registers:
 
 # File marks:
-'0  5  0  ~/ppt
-|4,48,5,0,1657176361,"~/ppt"
-'1  5  4  ~/acters
-|4,49,5,4,1657176338,"~/acters"
-'2  4  0  ~/file1
-|4,50,4,0,1657175208,"~/file1"
-'3  7  1  ~/numbers
-|4,51,7,1,1657175153,"~/numbers"
+'0  16  0  ~/hellogitworld/README.txt
+|4,48,16,0,1657177225,"~/hellogitworld/README.txt"
+'1  5  0  ~/ppt
+|4,49,5,0,1657176361,"~/ppt"
+'2  5  4  ~/acters
+|4,50,5,4,1657176338,"~/acters"
+'3  4  0  ~/file1
+|4,51,4,0,1657175208,"~/file1"
+'4  7  1  ~/numbers
+|4,52,7,1,1657175153,"~/numbers"
 
 # Jumplist (newest first):
+-'  16  0  ~/hellogitworld/README.txt
+|4,39,16,0,1657177225,"~/hellogitworld/README.txt"
+-'  1  0  ~/hellogitworld/README.txt
+|4,39,1,0,1657177210,"~/hellogitworld/README.txt"
 -'  5  0  ~/ppt
 |4,39,5,0,1657176361,"~/ppt"
+-'  5  0  ~/ppt
+|4,39,5,0,1657176361,"~/ppt"
+-'  1  0  ~/ppt
+|4,39,1,0,1657176342,"~/ppt"
 -'  1  0  ~/ppt
 |4,39,1,0,1657176342,"~/ppt"
 -'  5  4  ~/acters
 |4,39,5,4,1657176338,"~/acters"
 -'  5  4  ~/acters
 |4,39,5,4,1657176338,"~/acters"
+-'  5  4  ~/acters
+|4,39,5,4,1657176338,"~/acters"
+-'  5  4  ~/acters
+|4,39,5,4,1657176338,"~/acters"
+-'  1  0  ~/acters
+|4,39,1,0,1657176301,"~/acters"
+-'  1  0  ~/acters
+|4,39,1,0,1657176301,"~/acters"
 -'  1  0  ~/acters
 |4,39,1,0,1657176301,"~/acters"
 -'  1  0  ~/acters
@@ -55,6 +73,22 @@
 |4,39,4,0,1657175208,"~/file1"
 -'  4  0  ~/file1
 |4,39,4,0,1657175208,"~/file1"
+-'  4  0  ~/file1
+|4,39,4,0,1657175208,"~/file1"
+-'  4  0  ~/file1
+|4,39,4,0,1657175208,"~/file1"
+-'  4  0  ~/file1
+|4,39,4,0,1657175208,"~/file1"
+-'  4  0  ~/file1
+|4,39,4,0,1657175208,"~/file1"
+-'  1  0  ~/file1
+|4,39,1,0,1657175187,"~/file1"
+-'  1  0  ~/file1
+|4,39,1,0,1657175187,"~/file1"
+-'  1  0  ~/file1
+|4,39,1,0,1657175187,"~/file1"
+-'  1  0  ~/file1
+|4,39,1,0,1657175187,"~/file1"
 -'  1  0  ~/file1
 |4,39,1,0,1657175187,"~/file1"
 -'  1  0  ~/file1
@@ -79,6 +113,38 @@
 |4,39,7,1,1657175153,"~/numbers"
 -'  7  1  ~/numbers
 |4,39,7,1,1657175153,"~/numbers"
+-'  7  1  ~/numbers
+|4,39,7,1,1657175153,"~/numbers"
+-'  7  1  ~/numbers
+|4,39,7,1,1657175153,"~/numbers"
+-'  7  1  ~/numbers
+|4,39,7,1,1657175153,"~/numbers"
+-'  7  1  ~/numbers
+|4,39,7,1,1657175153,"~/numbers"
+-'  7  1  ~/numbers
+|4,39,7,1,1657175153,"~/numbers"
+-'  7  1  ~/numbers
+|4,39,7,1,1657175153,"~/numbers"
+-'  7  1  ~/numbers
+|4,39,7,1,1657175153,"~/numbers"
+-'  7  1  ~/numbers
+|4,39,7,1,1657175153,"~/numbers"
+-'  1  0  ~/numbers
+|4,39,1,0,1657175135,"~/numbers"
+-'  1  0  ~/numbers
+|4,39,1,0,1657175135,"~/numbers"
+-'  1  0  ~/numbers
+|4,39,1,0,1657175135,"~/numbers"
+-'  1  0  ~/numbers
+|4,39,1,0,1657175135,"~/numbers"
+-'  1  0  ~/numbers
+|4,39,1,0,1657175135,"~/numbers"
+-'  1  0  ~/numbers
+|4,39,1,0,1657175135,"~/numbers"
+-'  1  0  ~/numbers
+|4,39,1,0,1657175135,"~/numbers"
+-'  1  0  ~/numbers
+|4,39,1,0,1657175135,"~/numbers"
 -'  1  0  ~/numbers
 |4,39,1,0,1657175135,"~/numbers"
 -'  1  0  ~/numbers
@@ -97,6 +163,13 @@
 |4,39,1,0,1657175135,"~/numbers"
 
 # History of marks within files (newest to oldest):
+
+> ~/hellogitworld/README.txt
+	*	1657177222	0
+	"	16	0
+	^	16	0
+	.	15	0
+	+	15	0
 
 > ~/ppt
 	*	1657176358	0
